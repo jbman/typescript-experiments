@@ -1,0 +1,3 @@
+# No JavaScript files in src and spec folder, as they are created by TypeScript compiler
+spec/*.js
+src/*.js
